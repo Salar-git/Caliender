@@ -7,5 +7,6 @@ class Caliender {
 
     fun printHello() {
         Log.d("DEBUGMODE", "HELLOOOOOOOOOO")
+        Log.d("DEBUGMODE", "WORLDDDDDDDDDDDDDD")
     }
 }
